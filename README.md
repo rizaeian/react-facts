@@ -1,2 +1,16 @@
 # react-facts
-react facts single page with light mode and dark mode 
+React facts single page with lightMode and darkMode 
+
+Quick start:
+
+```
+$ yarn # npm install
+$ yarn build # npm run build
+````
+
+## Development
+
+Run Webpack in watch-mode to continually compile the JavaScript as you work:
+
+```
+$ yarn watch # npm run watch
